@@ -33,6 +33,9 @@ $$\vec{F}_{23}=-\frac{G m_2 m_3 (\vec{r}_2 - \vec{r}_3)}{\|\vec{r}_2 - \vec{r}_3
 
 $$\vec{F}_{31}=-\frac{G m_3 m_1 (\vec{r}_3 - \vec{r}_1)}{\|\vec{r}_3 - \vec{r}_1\|^3}=-\vec{F}_{13}$$
 
+
+![Figure](assets/planar.png)
+
 further simplifying equations we get total 6 equations to solve numerically in x and y direction,
 
 $$\frac{d^2 x_1}{dt^2}=- G \left(\frac{m_2 (x_1 - x_2)}{\|\vec r_1 - \vec r_2\|^3}+\frac{m_3 (x_1 - x_3)}{\|\vec r_1 - \vec r_3\|^3}\right)$$
@@ -46,3 +49,5 @@ $$\frac{d^2 y_1}{dt^2}=- G \left(\frac{m_2 (y_1 - y_2)}{\|\vec r_1 - \vec r_2\|^
 $$\frac{d^2 y_2}{dt^2}=- G \left(\frac{m_1 (y_2 - y_1)}{\|\vec r_2 - \vec r_1\|^3}+\frac{m_3 (y_2 - y_3)}{\|\vec r_2 - \vec r_3\|^3}\right)$$
 
 $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^3}+\frac{m_2 (y_3 - y_2)}{\|\vec r_3 - \vec r_2\|^3}\right)$$
+
+

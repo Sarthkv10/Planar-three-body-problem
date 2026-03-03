@@ -67,7 +67,7 @@ $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^
 
 #### Heirarchical Orbit-
 
+<img src="assets/hierarchical.png" width="400">
 
-![Figure](assets/hierarchical.png)
 
 

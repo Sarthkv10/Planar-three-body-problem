@@ -51,7 +51,7 @@ $$\frac{d^2 y_2}{dt^2}=- G \left(\frac{m_1 (y_2 - y_1)}{\|\vec r_2 - \vec r_1\|^
 $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^3}+\frac{m_2 (y_3 - y_2)}{\|\vec r_3 - \vec r_2\|^3}\right)$$
 
 
-### You can refer to our orbits and their plots codes here- 
+### You can refer to our orbits and their plots codes solved using Leapfrog algorithm here- 
 
 1- https://github.com/Sarthkv10/Planar-three-body-problem/blob/main/8%20figure.py
 

@@ -69,5 +69,13 @@ $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^
 
 <img src="assets/hierarchical.png" width="400">
 
+### Phase space plot 
 
+<p align="center">
+  <img src="assets/fig8PS.png" width="400">
+  <img src="assets/ButPS.png" width="400">
+</p>
 
+<p align="center">
+  <img src="assets/HierarPS.png" width="500">
+</p

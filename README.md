@@ -59,6 +59,8 @@ $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^
 
 3- https://github.com/Sarthkv10/Planar-three-body-problem/blob/main/hierarch.py
 
-### Watch the animation here on my youtube channel
+### Watch the animation here on my youtube channel ( click on the image)
 
 [![Watch the video](https://i.ytimg.com/vi/M_C_nG6tjyc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBi9wjVL4yHfxIkTaXTsxwgGN1oA)](https://www.youtube.com/watch?v=M_C_nG6tjyc)
+
+[![Watch the video](https://i.ytimg.com/vi/YrgEWIInHuA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUngrdO3vAx_4cmjRgGXHBtJYH2w)]([https://www.youtube.com/watch?v=M_C_nG6tjyc](https://www.youtube.com/watch?v=YrgEWIInHuA))

@@ -50,6 +50,7 @@ $$\frac{d^2 y_2}{dt^2}=- G \left(\frac{m_1 (y_2 - y_1)}{\|\vec r_2 - \vec r_1\|^
 
 $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^3}+\frac{m_2 (y_3 - y_2)}{\|\vec r_3 - \vec r_2\|^3}\right)$$
 
+## Leapfrog algorithm approach 
 
 ### You can refer to our orbits and their plots codes solved using Leapfrog algorithm here- 
 
@@ -79,3 +80,9 @@ $$\frac{d^2 y_3}{dt^2}=- G \left(\frac{m_1 (y_3 - y_1)}{\|\vec r_3 - \vec r_1\|^
 <p align="center">
   <img src="assets/HierarPS.png" width="500">
 </p
+
+## Artifical Neural Network Approach-
+
+#### code can be accessed here-
+
+By modeling and training the network, the losses were minimised and the hyper-parameters like number of neurons, neural layers, learning rate, etc. were optimised. Initially, the trajectories along the individual x-and y-directions were optimised,following which the orbit was predicted. Thepredicted orbit in comparison to the actual orbit has been presented

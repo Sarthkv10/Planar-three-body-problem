@@ -90,7 +90,11 @@ By modeling and training the network, the losses were minimised and the hyper-pa
 ### Results
 
 <p align="center">
-  <img src="assets/ANN_pred.png" width="400">
-  <img src="assets/ANN_error.png" width="400">
+  <img src="assets/Fig8pred.png" width="400">
+  <img src="assets/Fig8actual.png" width="400">
 </p>
+<p align="center">
+  <img src="assets/ANN_error.png" width="500">
+</p
+
 
